@@ -8,5 +8,6 @@ namespace VehicleInventory.Infrastructure.Repositories
 {
     internal class VehicleRepository
     {
+
     }
 }
