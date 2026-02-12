@@ -3,10 +3,17 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using VehicleInventory.Domain.Enums;
 
 namespace VehicleInventory.Application.DTOs
 {
-    internal class VehicleDto
-    {
-    }
+    public sealed record VehicleDto(
+    
+        Guid Id,
+        string VehicleCod,
+        Guid LocationId,
+        string VehicleType,
+        VehicleStatus Status
+    );
+
 }
