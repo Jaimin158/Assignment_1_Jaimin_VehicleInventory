@@ -3,10 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using VehicleInventory.Domain.Enums;
 
 namespace VehicleInventory.Application.DTOs
 {
-    internal class UpdateVehicleStatusRequest
-    {
-    }
+    public sealed record UpdateVehicleStatusRequest
+    (
+        VehicleStatus NewStatus,
+        bool ReleaseReservation = false
+        );
+    
 }

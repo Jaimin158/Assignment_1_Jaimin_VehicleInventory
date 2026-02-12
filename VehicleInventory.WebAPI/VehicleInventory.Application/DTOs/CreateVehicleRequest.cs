@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace VehicleInventory.Application.DTOs
 {
-    internal class CreateVehicleRequest
-    {
-    }
+    public sealed record CreateVehicleRequest
+    (
+         string VehicleCode,
+        Guid LocationId,
+        string VehicleType
+        
+        );
+    
 }
