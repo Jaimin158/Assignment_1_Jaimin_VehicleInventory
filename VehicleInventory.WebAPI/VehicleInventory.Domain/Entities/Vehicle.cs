@@ -8,7 +8,7 @@ using VehicleInventory.Domain.Exceptions;
 
 namespace VehicleInventory.Domain.Entities
 {
-    internal class Vehicle
+    public class Vehicle
     {
         
         private Vehicle() { }
