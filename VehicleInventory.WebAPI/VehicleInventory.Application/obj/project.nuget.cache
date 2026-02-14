@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "c3zfIlkvDvw=",
+  "dgSpecHash": "Lfchcfewev4=",
   "success": true,
   "projectFilePath": "C:\\Users\\jaimi\\OneDrive\\Desktop\\Assignment_1_Jaimin_VehicleInventory\\VehicleInventory.WebAPI\\VehicleInventory.Application\\VehicleInventory.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jaimi\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\jaimi\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
-    "C:\\Users\\jaimi\\.nuget\\packages\\fluentvalidation\\8.6.3\\fluentvalidation.8.6.3.nupkg.sha512",
+    "C:\\Users\\jaimi\\.nuget\\packages\\fluentvalidation\\12.1.1\\fluentvalidation.12.1.1.nupkg.sha512",
     "C:\\Users\\jaimi\\.nuget\\packages\\fluentvalidation.aspnetcore\\8.6.3\\fluentvalidation.aspnetcore.8.6.3.nupkg.sha512",
     "C:\\Users\\jaimi\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\8.6.3\\fluentvalidation.dependencyinjectionextensions.8.6.3.nupkg.sha512",
     "C:\\Users\\jaimi\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
@@ -52,7 +52,6 @@
     "C:\\Users\\jaimi\\.nuget\\packages\\system.clientmodel\\1.0.0\\system.clientmodel.1.0.0.nupkg.sha512",
     "C:\\Users\\jaimi\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
     "C:\\Users\\jaimi\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
-    "C:\\Users\\jaimi\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512",
     "C:\\Users\\jaimi\\.nuget\\packages\\system.composition\\6.0.0\\system.composition.6.0.0.nupkg.sha512",
     "C:\\Users\\jaimi\\.nuget\\packages\\system.composition.attributedmodel\\6.0.0\\system.composition.attributedmodel.6.0.0.nupkg.sha512",
     "C:\\Users\\jaimi\\.nuget\\packages\\system.composition.convention\\6.0.0\\system.composition.convention.6.0.0.nupkg.sha512",

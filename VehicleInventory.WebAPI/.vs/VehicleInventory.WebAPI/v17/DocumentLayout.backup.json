@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\jaimi\\OneDrive\\Desktop\\Assignment_1_Jaimin_VehicleInventory\\VehicleInventory.WebAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{013D97ED-E5AC-4E3A-AAF3-0D61986166E6}|VehicleInventory.Application\\VehicleInventory.Application.csproj|c:\\users\\jaimi\\onedrive\\desktop\\assignment_1_jaimin_vehicleinventory\\vehicleinventory.webapi\\vehicleinventory.application\\validation\\createvehiclerequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013D97ED-E5AC-4E3A-AAF3-0D61986166E6}|VehicleInventory.Application\\VehicleInventory.Application.csproj|solutionrelative:vehicleinventory.application\\validation\\createvehiclerequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013D97ED-E5AC-4E3A-AAF3-0D61986166E6}|VehicleInventory.Application\\VehicleInventory.Application.csproj|c:\\users\\jaimi\\onedrive\\desktop\\assignment_1_jaimin_vehicleinventory\\vehicleinventory.webapi\\vehicleinventory.application\\services\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013D97ED-E5AC-4E3A-AAF3-0D61986166E6}|VehicleInventory.Application\\VehicleInventory.Application.csproj|solutionrelative:vehicleinventory.application\\services\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013D97ED-E5AC-4E3A-AAF3-0D61986166E6}|VehicleInventory.Application\\VehicleInventory.Application.csproj|c:\\users\\jaimi\\onedrive\\desktop\\assignment_1_jaimin_vehicleinventory\\vehicleinventory.webapi\\vehicleinventory.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013D97ED-E5AC-4E3A-AAF3-0D61986166E6}|VehicleInventory.Application\\VehicleInventory.Application.csproj|solutionrelative:vehicleinventory.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{013D97ED-E5AC-4E3A-AAF3-0D61986166E6}|VehicleInventory.Application\\VehicleInventory.Application.csproj|c:\\users\\jaimi\\onedrive\\desktop\\assignment_1_jaimin_vehicleinventory\\vehicleinventory.webapi\\vehicleinventory.application\\interfaces\\ivehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{013D97ED-E5AC-4E3A-AAF3-0D61986166E6}|VehicleInventory.Application\\VehicleInventory.Application.csproj|solutionrelative:vehicleinventory.application\\interfaces\\ivehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,10 +55,6 @@
       "RelativeMoniker": "D:0:0:{D8638EE7-6AF9-49CF-946D-B7B729043B5E}|VehicleInventory.Infrastructure\\VehicleInventory.Infrastructure.csproj|solutionrelative:vehicleinventory.infrastructure\\vehicleinventory.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{013D97ED-E5AC-4E3A-AAF3-0D61986166E6}|VehicleInventory.Application\\VehicleInventory.Application.csproj|c:\\users\\jaimi\\onedrive\\desktop\\assignment_1_jaimin_vehicleinventory\\vehicleinventory.webapi\\vehicleinventory.application\\services\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{013D97ED-E5AC-4E3A-AAF3-0D61986166E6}|VehicleInventory.Application\\VehicleInventory.Application.csproj|solutionrelative:vehicleinventory.application\\services\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{013D97ED-E5AC-4E3A-AAF3-0D61986166E6}|VehicleInventory.Application\\VehicleInventory.Application.csproj|c:\\users\\jaimi\\onedrive\\desktop\\assignment_1_jaimin_vehicleinventory\\vehicleinventory.webapi\\vehicleinventory.application\\vehicleinventory.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{013D97ED-E5AC-4E3A-AAF3-0D61986166E6}|VehicleInventory.Application\\VehicleInventory.Application.csproj|solutionrelative:vehicleinventory.application\\vehicleinventory.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -65,10 +73,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D8638EE7-6AF9-49CF-946D-B7B729043B5E}|VehicleInventory.Infrastructure\\VehicleInventory.Infrastructure.csproj|c:\\users\\jaimi\\onedrive\\desktop\\assignment_1_jaimin_vehicleinventory\\vehicleinventory.webapi\\vehicleinventory.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8638EE7-6AF9-49CF-946D-B7B729043B5E}|VehicleInventory.Infrastructure\\VehicleInventory.Infrastructure.csproj|solutionrelative:vehicleinventory.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{013D97ED-E5AC-4E3A-AAF3-0D61986166E6}|VehicleInventory.Application\\VehicleInventory.Application.csproj|c:\\users\\jaimi\\onedrive\\desktop\\assignment_1_jaimin_vehicleinventory\\vehicleinventory.webapi\\vehicleinventory.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{013D97ED-E5AC-4E3A-AAF3-0D61986166E6}|VehicleInventory.Application\\VehicleInventory.Application.csproj|solutionrelative:vehicleinventory.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,36 +82,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UpdateVehicleStatusRequest.cs",
-              "DocumentMoniker": "C:\\Users\\jaimi\\OneDrive\\Desktop\\Assignment_1_Jaimin_VehicleInventory\\VehicleInventory.WebAPI\\VehicleInventory.Application\\DTOs\\UpdateVehicleStatusRequest.cs",
-              "RelativeDocumentMoniker": "VehicleInventory.Application\\DTOs\\UpdateVehicleStatusRequest.cs",
-              "ToolTip": "C:\\Users\\jaimi\\OneDrive\\Desktop\\Assignment_1_Jaimin_VehicleInventory\\VehicleInventory.WebAPI\\VehicleInventory.Application\\DTOs\\UpdateVehicleStatusRequest.cs",
-              "RelativeToolTip": "VehicleInventory.Application\\DTOs\\UpdateVehicleStatusRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "CreateVehicleRequestValidator.cs",
+              "DocumentMoniker": "C:\\Users\\jaimi\\OneDrive\\Desktop\\Assignment_1_Jaimin_VehicleInventory\\VehicleInventory.WebAPI\\VehicleInventory.Application\\Validation\\CreateVehicleRequestValidator.cs",
+              "RelativeDocumentMoniker": "VehicleInventory.Application\\Validation\\CreateVehicleRequestValidator.cs",
+              "ToolTip": "C:\\Users\\jaimi\\OneDrive\\Desktop\\Assignment_1_Jaimin_VehicleInventory\\VehicleInventory.WebAPI\\VehicleInventory.Application\\Validation\\CreateVehicleRequestValidator.cs",
+              "RelativeToolTip": "VehicleInventory.Application\\Validation\\CreateVehicleRequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T18:35:05.45Z",
+              "WhenOpened": "2026-02-13T03:11:10.497Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DomainException.cs",
-              "DocumentMoniker": "C:\\Users\\jaimi\\OneDrive\\Desktop\\Assignment_1_Jaimin_VehicleInventory\\VehicleInventory.WebAPI\\VehicleInventory.Domain\\Exceptions\\DomainException.cs",
-              "RelativeDocumentMoniker": "VehicleInventory.Domain\\Exceptions\\DomainException.cs",
-              "ToolTip": "C:\\Users\\jaimi\\OneDrive\\Desktop\\Assignment_1_Jaimin_VehicleInventory\\VehicleInventory.WebAPI\\VehicleInventory.Domain\\Exceptions\\DomainException.cs",
-              "RelativeToolTip": "VehicleInventory.Domain\\Exceptions\\DomainException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T18:28:21.296Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Vehicle.cs",
               "DocumentMoniker": "C:\\Users\\jaimi\\OneDrive\\Desktop\\Assignment_1_Jaimin_VehicleInventory\\VehicleInventory.WebAPI\\VehicleInventory.Domain\\Entities\\Vehicle.cs",
               "RelativeDocumentMoniker": "VehicleInventory.Domain\\Entities\\Vehicle.cs",
@@ -115,12 +107,11 @@
               "RelativeToolTip": "VehicleInventory.Domain\\Entities\\Vehicle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T18:28:44.97Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-12T18:28:44.97Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "VehicleDto.cs",
               "DocumentMoniker": "C:\\Users\\jaimi\\OneDrive\\Desktop\\Assignment_1_Jaimin_VehicleInventory\\VehicleInventory.WebAPI\\VehicleInventory.Application\\DTOs\\VehicleDto.cs",
               "RelativeDocumentMoniker": "VehicleInventory.Application\\DTOs\\VehicleDto.cs",
@@ -132,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "CreateVehicleRequest.cs",
               "DocumentMoniker": "C:\\Users\\jaimi\\OneDrive\\Desktop\\Assignment_1_Jaimin_VehicleInventory\\VehicleInventory.WebAPI\\VehicleInventory.Application\\DTOs\\CreateVehicleRequest.cs",
               "RelativeDocumentMoniker": "VehicleInventory.Application\\DTOs\\CreateVehicleRequest.cs",
@@ -144,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "IVehicleRepository.cs",
               "DocumentMoniker": "C:\\Users\\jaimi\\OneDrive\\Desktop\\Assignment_1_Jaimin_VehicleInventory\\VehicleInventory.WebAPI\\VehicleInventory.Application\\Interfaces\\IVehicleRepository.cs",
               "RelativeDocumentMoniker": "VehicleInventory.Application\\Interfaces\\IVehicleRepository.cs",
@@ -152,12 +143,61 @@
               "RelativeToolTip": "VehicleInventory.Application\\Interfaces\\IVehicleRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T18:35:24.319Z",
+              "WhenOpened": "2026-02-12T18:35:24.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VehicleService.cs",
+              "DocumentMoniker": "C:\\Users\\jaimi\\OneDrive\\Desktop\\Assignment_1_Jaimin_VehicleInventory\\VehicleInventory.WebAPI\\VehicleInventory.Application\\Services\\VehicleService.cs",
+              "RelativeDocumentMoniker": "VehicleInventory.Application\\Services\\VehicleService.cs",
+              "ToolTip": "C:\\Users\\jaimi\\OneDrive\\Desktop\\Assignment_1_Jaimin_VehicleInventory\\VehicleInventory.WebAPI\\VehicleInventory.Application\\Services\\VehicleService.cs",
+              "RelativeToolTip": "VehicleInventory.Application\\Services\\VehicleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T18:35:47.941Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\jaimi\\OneDrive\\Desktop\\Assignment_1_Jaimin_VehicleInventory\\VehicleInventory.WebAPI\\VehicleInventory.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "VehicleInventory.Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\jaimi\\OneDrive\\Desktop\\Assignment_1_Jaimin_VehicleInventory\\VehicleInventory.WebAPI\\VehicleInventory.Application\\Class1.cs",
+              "RelativeToolTip": "VehicleInventory.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T18:16:06.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DomainException.cs",
+              "DocumentMoniker": "C:\\Users\\jaimi\\OneDrive\\Desktop\\Assignment_1_Jaimin_VehicleInventory\\VehicleInventory.WebAPI\\VehicleInventory.Domain\\Exceptions\\DomainException.cs",
+              "RelativeDocumentMoniker": "VehicleInventory.Domain\\Exceptions\\DomainException.cs",
+              "ToolTip": "C:\\Users\\jaimi\\OneDrive\\Desktop\\Assignment_1_Jaimin_VehicleInventory\\VehicleInventory.WebAPI\\VehicleInventory.Domain\\Exceptions\\DomainException.cs",
+              "RelativeToolTip": "VehicleInventory.Domain\\Exceptions\\DomainException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T18:28:21.296Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "UpdateVehicleStatusRequest.cs",
+              "DocumentMoniker": "C:\\Users\\jaimi\\OneDrive\\Desktop\\Assignment_1_Jaimin_VehicleInventory\\VehicleInventory.WebAPI\\VehicleInventory.Application\\DTOs\\UpdateVehicleStatusRequest.cs",
+              "RelativeDocumentMoniker": "VehicleInventory.Application\\DTOs\\UpdateVehicleStatusRequest.cs",
+              "ToolTip": "C:\\Users\\jaimi\\OneDrive\\Desktop\\Assignment_1_Jaimin_VehicleInventory\\VehicleInventory.WebAPI\\VehicleInventory.Application\\DTOs\\UpdateVehicleStatusRequest.cs",
+              "RelativeToolTip": "VehicleInventory.Application\\DTOs\\UpdateVehicleStatusRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T18:35:05.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "VehicleStatus.cs",
               "DocumentMoniker": "C:\\Users\\jaimi\\OneDrive\\Desktop\\Assignment_1_Jaimin_VehicleInventory\\VehicleInventory.WebAPI\\VehicleInventory.Domain\\Enums\\VehicleStatus.cs",
               "RelativeDocumentMoniker": "VehicleInventory.Domain\\Enums\\VehicleStatus.cs",
@@ -170,18 +210,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "VehicleService.cs",
-              "DocumentMoniker": "C:\\Users\\jaimi\\OneDrive\\Desktop\\Assignment_1_Jaimin_VehicleInventory\\VehicleInventory.WebAPI\\VehicleInventory.Application\\Services\\VehicleService.cs",
-              "RelativeDocumentMoniker": "VehicleInventory.Application\\Services\\VehicleService.cs",
-              "ToolTip": "C:\\Users\\jaimi\\OneDrive\\Desktop\\Assignment_1_Jaimin_VehicleInventory\\VehicleInventory.WebAPI\\VehicleInventory.Application\\Services\\VehicleService.cs",
-              "RelativeToolTip": "VehicleInventory.Application\\Services\\VehicleService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T18:35:47.941Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "VehicleRepository.cs",
               "DocumentMoniker": "C:\\Users\\jaimi\\OneDrive\\Desktop\\Assignment_1_Jaimin_VehicleInventory\\VehicleInventory.WebAPI\\VehicleInventory.Infrastructure\\Repositories\\VehicleRepository.cs",
               "RelativeDocumentMoniker": "VehicleInventory.Infrastructure\\Repositories\\VehicleRepository.cs",
@@ -193,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "InventoryDbContext.cs",
               "DocumentMoniker": "C:\\Users\\jaimi\\OneDrive\\Desktop\\Assignment_1_Jaimin_VehicleInventory\\VehicleInventory.WebAPI\\VehicleInventory.Infrastructure\\Persistence\\InventoryDbContext.cs",
               "RelativeDocumentMoniker": "VehicleInventory.Infrastructure\\Persistence\\InventoryDbContext.cs",
@@ -205,7 +233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "VehicleInventory.Infrastructure.csproj",
               "DocumentMoniker": "C:\\Users\\jaimi\\OneDrive\\Desktop\\Assignment_1_Jaimin_VehicleInventory\\VehicleInventory.WebAPI\\VehicleInventory.Infrastructure\\VehicleInventory.Infrastructure.csproj",
               "RelativeDocumentMoniker": "VehicleInventory.Infrastructure\\VehicleInventory.Infrastructure.csproj",
@@ -217,7 +245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "VehicleInventory.Domain.csproj",
               "DocumentMoniker": "C:\\Users\\jaimi\\OneDrive\\Desktop\\Assignment_1_Jaimin_VehicleInventory\\VehicleInventory.WebAPI\\VehicleInventory.Domain\\VehicleInventory.Domain.csproj",
               "RelativeDocumentMoniker": "VehicleInventory.Domain\\VehicleInventory.Domain.csproj",
@@ -229,7 +257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "VehicleInventory.WebAPI.csproj",
               "DocumentMoniker": "C:\\Users\\jaimi\\OneDrive\\Desktop\\Assignment_1_Jaimin_VehicleInventory\\VehicleInventory.WebAPI\\VehicleInventory.WebAPI\\VehicleInventory.WebAPI.csproj",
               "RelativeDocumentMoniker": "VehicleInventory.WebAPI\\VehicleInventory.WebAPI.csproj",
@@ -241,7 +269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "VehicleInventory.Application.csproj",
               "DocumentMoniker": "C:\\Users\\jaimi\\OneDrive\\Desktop\\Assignment_1_Jaimin_VehicleInventory\\VehicleInventory.WebAPI\\VehicleInventory.Application\\VehicleInventory.Application.csproj",
               "RelativeDocumentMoniker": "VehicleInventory.Application\\VehicleInventory.Application.csproj",
@@ -253,7 +281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\jaimi\\OneDrive\\Desktop\\Assignment_1_Jaimin_VehicleInventory\\VehicleInventory.WebAPI\\VehicleInventory.Domain\\Class1.cs",
               "RelativeDocumentMoniker": "VehicleInventory.Domain\\Class1.cs",
@@ -265,7 +293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\jaimi\\OneDrive\\Desktop\\Assignment_1_Jaimin_VehicleInventory\\VehicleInventory.WebAPI\\VehicleInventory.Infrastructure\\Class1.cs",
               "RelativeDocumentMoniker": "VehicleInventory.Infrastructure\\Class1.cs",
@@ -274,18 +302,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-12T18:16:27.599Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\jaimi\\OneDrive\\Desktop\\Assignment_1_Jaimin_VehicleInventory\\VehicleInventory.WebAPI\\VehicleInventory.Application\\Class1.cs",
-              "RelativeDocumentMoniker": "VehicleInventory.Application\\Class1.cs",
-              "ToolTip": "C:\\Users\\jaimi\\OneDrive\\Desktop\\Assignment_1_Jaimin_VehicleInventory\\VehicleInventory.WebAPI\\VehicleInventory.Application\\Class1.cs",
-              "RelativeToolTip": "VehicleInventory.Application\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T18:16:06.254Z"
             }
           ]
         }
